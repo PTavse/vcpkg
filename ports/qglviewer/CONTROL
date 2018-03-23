@@ -1,0 +1,4 @@
+Source: qglviewer
+Version: 2.7.1
+Description: Qt library for creation of OpenGL 3D Viewers.
+Build-Depends: qt5-base, opengl

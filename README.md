@@ -56,3 +56,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 ## License
 
 Code licensed under the [MIT License](LICENSE.txt).
+
+# About QGLViewer
+
+To install qglviewer we need qt5-base to be installed. To get the binary, go to vcpkgbin.bat download vcpkg/0.0.81-7@had/vcpkg "qt5-base" x64-windows
